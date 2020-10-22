@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  if(species === 'koala') {
+  if(value === 'koala') {
     $('#koalaInfo').show();
   }
 });
